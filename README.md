@@ -6,15 +6,15 @@ Nicolas Bonta Barros
  La enfermedad celíaca : es una enfermedad autoinmune caracterizada por la inflamación de las paredes intestinales debido a la presencia de gluten el cual el sistema inmune ataca, está asociada a los genes HLA-DQ1B y __HLA-DQA1__ principales genes de el complejo HLA  Sistema del antígeno leucocitario humano
  
   ##### Preguntas
- 1. ##### _¿Tiene nombres alternativos el gen?_Sí, son 4 incluyendo el nombre original: __HLA-DQA1__, CELIAC1, DQ-A1, HLA-DQA
- 2. ##### _¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?_Se encuentra en el cromosoma 6 en la posición 6p21.32, posee 6 exones y 7 isoformas de transcritos
- 3. ##### _¿Qué tipo de proteína es codificada por este gen? ¿Cuál es su número EC?_La proteína se llama antígeno de histocompatibilidad clase II, cadena DQ alfa 1, no posee número EC ya que no es una enzima 
- 4. ##### _¿Qué genes están inmediatamente río arriba/abajo?_El gen que se encuentra río arriba con respecto a HLA-DQA1 es HLA-DQB1 y rio abajo el HLA-DRB1
- 5. ##### _¿Cuál es la longitud de tu gen?_1591  pares de bases es la longitud del gen HLA-DQA1.
- 6. ##### _¿Cuántas variantes de tu gen hay descritas y en qué posiciones?_ Son 7 las variantes descritas de este gen, todas se encuentran en el cromosoma 6
- 7. ##### _¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?_ Son 2 los cambios sinónimos, 3 no sinónimos Y existen 2 que no se conoce su significancia.
- 8. ##### _¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?_ si, existen 10 ortólogos de otras especies.
- 9. ##### _¿Y parálogos? ¿Hay pseudogenes? ¿Cuántos?_ Sí, existen 25 parálogos en distintas zonas del cromosoma, de esos 25 hay 6 pertenecen al complejo HLA.
+ 1. ##### ¿Tiene nombres alternativos el gen?Sí, son 4 incluyendo el nombre original: __HLA-DQA1__, CELIAC1, DQ-A1, HLA-DQA
+ 2. ##### ¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?Se encuentra en el cromosoma 6 en la posición 6p21.32, posee 6 exones y 7 isoformas de transcritos
+ 3. ##### ¿Qué tipo de proteína es codificada por este gen? ¿Cuál es su número EC?La proteína se llama antígeno de histocompatibilidad clase II, cadena DQ alfa 1, no posee número EC ya que no es una enzima 
+ 4. ##### ¿Qué genes están inmediatamente río arriba/abajo?El gen que se encuentra río arriba con respecto a HLA-DQA1 es HLA-DQB1 y rio abajo el HLA-DRB1
+ 5. ##### ¿Cuál es la longitud de tu gen?1591  pares de bases es la longitud del gen HLA-DQA1.
+ 6. ##### ¿Cuántas variantes de tu gen hay descritas y en qué posiciones? Son 7 las variantes descritas de este gen, todas se encuentran en el cromosoma 6
+ 7. ##### ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos? Son 2 los cambios sinónimos, 3 no sinónimos Y existen 2 que no se conoce su significancia.
+ 8. ##### ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos? si, existen 10 ortólogos de otras especies.
+ 9. ##### ¿Y parálogos? ¿Hay pseudogenes? ¿Cuántos? Sí, existen 25 parálogos en distintas zonas del cromosoma, de esos 25 hay 6 pertenecen al complejo HLA.
 
 #### Parte 2: Rutas y procesos metabólicos 
 
