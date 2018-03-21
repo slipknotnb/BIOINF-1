@@ -129,5 +129,18 @@ end;
 begin assumptions;
 options deftype=unord;
 end;
-Pantallazo de la suscripción 
+
+Pantallazo de la suscripción NCBI y Google Scholar
 ![Caputra](Captura.PNG)
+![alertagoogle](alertagoogle.JPG)
+Alerta Nature 
+![nature](nature.PNG)
+
+#### Parte 4 Buscando artículos científicos en linea
+
+1. ##### ¿Son los resultados idénticos o no? No, con comillas es más especifico y existen menos resultados en la busqueda 27.300, en cambio sin comillas aparecen 140.000 resultados
+2. ##### ¿En qué cambiaron los resultados de la búsqueda? las busquedas bajaron de 27.300 a 27.200 
+3. ##### ¿Qué encuentras en los resultados? Prueba sin el rango también? Se nota drasticamente el cambio ya que de 7 millones de resultados baja a 100.000 y las paginas web son mucho mas especificas.
+4. ##### Descripcion el filtro de busqueda de google es una herrmanienta de mucha utilidad que generalmente es desconocida por los usuarios, filtrar por PDF es una util herramienta que facilita mucho las busquedas.
+5. ##### ¿En qué cambian los resultados de la búsqueda? varian bastante, la orientacion que tienen los papers va relacionada en otro enfoque dependiendo si es + o -
+6. ##### ¿en qué cambian los resultados de la búsqueda con respecto a OR y AND? cambian el criterio ya que con OR relaciona consecuencias de uno con respecto a otro y en AND es la relacion directa entre las especies.
